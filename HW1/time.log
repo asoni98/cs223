@@ -1,0 +1,38 @@
+ESTIMATE of time to complete assignment: 19:30 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+10/02  5:15pm  3:30   read assignment and started looking up struct commands.
+                      also read about divide and conquer algorithm
+
+10/03  6:00pm  3:00   read through Professor's notes and discovered plist.c is
+                      very similar to how he set up the opaque struct. I made
+                      sure I understand that well and wrote most of plist.c
+10/06  9:00pm  6:00   finished plist.c. Then started testing the commands with
+                      print statements and reading in code with scanf. Started
+                      closest_pair
+10/07  7:30pm  4:00   accidentally wrote closest pair in n^2 time and fixed it
+                      by reading up on the theory behind the program. Did
+                      search middle.
+10/12  7:00pm  3:30   finished finally!!!
+               ----
+               19:30  TOTAL time spent
+
+I discussed parts with Alex Wang and Aadit Vyas. We mostly just
+shared interesting/difficult test cases.
+
+I did not understand structs coming into this assignment and started off
+frustrated at the large amount of code that had to be written before lines could
+be tested. I like debugging immediately as I go but I get that in more complex
+programs it is necessary to write a structure before debugging is even possible.
+I originally did not understand how this could be n log n. But doing a good
+amount of reading about divide-and-conquer it made sense conceptually. I also
+struggled with pointers but this assignment definitely made pointers more
+understandable. I was originally guessing when you adding & and * in and the
+compiler would tell what to fix, but there was soon inherent faults in my code
+that I had to go through and manually fix by testing each function individually.
+I also wrote the search middle and split list y wrong because I did not fully
+understand what they were supposed to do, but by reading over lecture notes
+and googling to understand the concept it came together. I also ran tests
+with 100,000 random points to ensure it is n log n time.

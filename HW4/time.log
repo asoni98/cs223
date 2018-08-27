@@ -1,0 +1,16 @@
+ESTIMATE of time to complete assignment: 21:30 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+10/30  2:15pm  15:30  pulled an all nighter. Finished most of the assignment. I just needed to fix slight errors with  
+                      main and free everything properly. 
+10/31  6:15pm  6:00   completed everything. still might have free errors in valgrind. 
+
+               ----
+               21:30  TOTAL time spent
+
+I discussed parts with Alex Wang, Aadit Vyas, Austin Mills. We mostly just
+shared interesting/difficult test cases and thoughts about the project.   
+
+I did not understand anything about hash maps coming into this assignment and started off frustrated at the large amount of code that had to be written before lines could be tested. I like debugging immediately as I go but I get that in more complex programs it is necessary to write a structure before debugging is even possible. I did not perform as many tests as I would have liked to make sure each part ran in the given time complexity. Something I really struggled with was the massive number of free statements that were necessary. Valgrinding is a very frustrating process that was definitely necessary to learn but unfortunately I might still have some errors. I learned a good amount of hash tables and I'm glad I did. Thank you for writing this pset. 

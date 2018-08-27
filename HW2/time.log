@@ -1,0 +1,36 @@
+ESTIMATE of time to complete assignment: 37:30 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+9/23  2:00 pm  4:30 pm   read assignment and started looking up array structures
+
+9/24  4:00 pm  9:00 pm   figured out arrays. started by hard coding array
+                         value for required numbers and maxNumber. implemented
+                         greedy and backwards
+9/25  1:00 pm   8:00 pm  implemented skip and debugged thoroughly. Implemented
+                         the error messages in assignment + some
+                         additional ones
+9/26  11:00 pm  4:50 am  This wasn't a great period of time but I felt it was
+                         necessary to do the bonus. I thought of logic for opt
+                         and tried to implement it. I was not successful till
+                         Tuesday.
+
+9/27  12:00 am  4:00 pm  Implemented -opt and a heuristic to make it faster
+
+9/27  7:00 pm   8:00 pm  Implemented -opt with required numbers
+
+               ----
+               37:30  TOTAL time spent
+
+I discussed parts with Alex Wang and Aadit Vyas. We mostly just shared
+interesting/difficult test cases and compared the outputs of backwards, skip,
+and greedy.
+
+This program was hard initially because of a lack of familiarity with arrays in
+C. I am used to being able to output an array from a function, being able to
+display an array from a function, and being able to modify an array locally.
+Most of the bugs in my program came from not implementing an array correctly. I
+though now feel like I have a much stronger understanding of arrays. I can also
+write much more effective functions. I am overall happy I did (and am done!)
+with this assignment. 
